@@ -63,7 +63,7 @@ export default {
 <style>
     .index {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
       grid-gap: 30px;
       margin-top: 60px;
     }
